@@ -1,0 +1,16 @@
+La PC en la cual coloque este conversor debe tener instalado access. Asimismo y para facilitar todo el proceso es conveniente que también tenga ingreso a OEP así puede realizar todo el proceso completo desde un solo lugar sin necesidad de estar moviendo el archivo de inclusión a otra PC
+
+PARA REALIZAR POR UNICA VEZ:
+
+1) Cree en el disco I la carpeta "aa". I:\aa\. Si no tiene el disco I, avise para que modifique la ruta que tiene el aplicativo
+
+
+ANTES DE COMENZAR EL PROCESO DE CONVERSIÓN:
+
+3) El archivo se llamará con el nombre que le de el cliente y tenga en cuenta que tiene que tener la extensión "*.txt".
+5) El archivo del cliente se puede colocar en cualquier carpeta, solo tiene que recordar donde lo guardó para luego poder ubicarlo con el aplicativo.
+6) El archivo de salida para ingresar en OEP, quedará en la carpeta I:\aa\. En este punto, tener en cuenta la misma consideración del punto 1 Tendrá por nombre: SANCOR+DD-MM-AAAA hh-mm-ss.txt
+7) Si va a procesar varios archivos del cliente tenga cuidado en recordar cuales procesó a fin de evitar generar dos veces el mismo archivo. Los archivos generados al ser una parte de su nombre que es variable, nunca se le repetirán salvo que genere dos archivos en el mismo segundo (SANCOR + DIA + MES + AÑO + HORA + MINUTO + SEGUNDO)
+8) Es conveniente que el aplicativo tenga un acceso directo en el escritorio para evitar que sea borrado por error
+9) La PC donde se use, tiene que tener instalado access 2010
+10) Una vez que se grabó el aplicativo en la PC, es necesario entrar para corregir unos temas relacionados con seguridad dado que caso contrario lo frenará en muchos procesos
